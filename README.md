@@ -62,7 +62,7 @@ List of integers in stack:
 Element 0: 5
 ```
 #### pop()
-`pop()` the number `"5"` from the stack:<br>
+`pop()` the number `"5"` from the stack: <br>
 ```
 Below are the operations you can execute on the stack:
 1. Push (Insert an element)
