@@ -64,8 +64,9 @@ void show(int *top, int stack[SIZE])
 
 		while (idx > -1)
 		{
-			printf("Element %d: %d\n\n\n", idx, stack[idx]);
+			printf("Element %d: %d\n", idx, stack[idx]);
 			idx--;
 		}
+		printf("\n\n");
 	}
 }
